@@ -64,7 +64,7 @@ B+ Trees are a balanced multi-way tree data structure used extensively in databa
    ```
 
 3. Compile and run the project:
-   Follow the instructions in `INSTALL.md` for setup and execution.
+  
 
 ## Acknowledgements
 
